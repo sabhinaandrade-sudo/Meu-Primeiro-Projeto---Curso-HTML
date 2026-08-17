@@ -1,0 +1,9 @@
+Algoritmos e Lógica 
+Objetivo :
+Dominar os fundamentos de programação aplicada no curso HTML.
+
+Conteúdos  para estudar :
+- O que é um algoritmo?
+- Variáveis e tipos de dados
+- Estruturas de decisão (se/senão)
+- Estruturas de repetições (Loops)
